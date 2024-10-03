@@ -54,10 +54,12 @@ Make sure to set up your OpenAI API key in your environment variables.
 
 ## Building for Production
 
-To create a production build, run:
+1. To create a production build, run:
+   ```
+   npm run build
+   ```
 
-npm run build
-
-Then, to start the production server:
-
-npm start
+2. Then, to start the production server:
+   ```
+   npm start
+   ```
